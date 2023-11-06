@@ -1,1 +1,1 @@
-# Planes-in-Satellite-Imagery-Classification
+# Planes in Satellite Imagery Binary Classification
